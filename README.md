@@ -33,22 +33,18 @@ List the key features and functionalities of the project.
 ![image](https://github.com/user-attachments/assets/a5aa11f4-ffcf-424c-90f8-97048de40ff3)
 
 ## Installation
-Libraries:
-GPIO: For the input and output connections of the motor pins
-rtlsdr: Configuration of RTL SDR
-numpy: For Mathematics
-SMbus: Configuration of the MPU6050 gyro module
-matplotlib: Draw the spectrum
-tkintir: For interface
-Thread: For communications of interfaces
+Libraries used in the project:
+
+- **GPIO**: For the input and output connections of the motor pins  
+- **rtlsdr**: Configuration of RTL SDR  
+- **numpy**: For mathematical operations  
+- **SMBus**: Configuration of the MPU6050 gyro module  
+- **matplotlib**: Draw the spectrum  
+- **tkinter**: For GUI interface  
+- **threading**: For communication between interface elements
 
 Raspberry:
 A 32 GB microSD card is used to provide storage for the Raspberry Pi [Rapberry Pi](https://www.raspberrypi.com/software/)
-```bash
-# Example commands
-git clone https://github.com/username/project-name.git
-cd project-name
-```
 
 ## Usage
 The system allows an autonomous vehicle to detect and follow a 433 MHz RF signal using an RTL-SDR and a gyroscope-based motion system. Follow the steps below to run the program:
