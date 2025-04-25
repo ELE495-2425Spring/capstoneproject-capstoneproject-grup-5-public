@@ -94,16 +94,15 @@ Direction Finding Examples:
 Here are the contributors and our resources.
 
 Contributors:
-Osman Tunç
-Cenk Yaşın
-Emir Atasayar
-Fethi Engin Uzhan
-Rasih Görkem Şimşek 
 
-[Osman Tunç]([https://github.com/user1](https://github.com/osmantunc))
-[Cenk Yaşın]([https://github.com/user1](https://github.com/cnkysn))
-[Emir Atasayar]([https://github.com/user1](https://github.com/emiratasayar))
-[Fethi Engin Uzhan]([https://github.com/user1](https://github.com/FethiEnginUzhan))
+[Osman Tunç]([https://github.com/user1](https://github.com/osmantunc))  
+
+[Cenk Yaşın]([https://github.com/user1](https://github.com/cnkysn))  
+
+[Emir Atasayar]([https://github.com/user1](https://github.com/emiratasayar))  
+
+[Fethi Engin Uzhan]([https://github.com/user1](https://github.com/FethiEnginUzhan))  
+
 [Rasih Görkem Şimşek]([https://github.com/user1](https://github.com/rsimsek3))
 
 
