@@ -95,15 +95,15 @@ Here are the contributors and our resources.
 
 Contributors:
 
-[Osman Tunç]([https://github.com/user1](https://github.com/osmantunc))  
+- [Osman Tunç]([https://github.com/user1](https://github.com/osmantunc))  
 
-[Cenk Yaşın]([https://github.com/user1](https://github.com/cnkysn))  
+- [Cenk Yaşın]([https://github.com/user1](https://github.com/cnkysn))  
 
-[Emir Atasayar]([https://github.com/user1](https://github.com/emiratasayar))  
+- [Emir Atasayar]([https://github.com/user1](https://github.com/emiratasayar))  
 
-[Fethi Engin Uzhan]([https://github.com/user1](https://github.com/FethiEnginUzhan))  
+- [Fethi Engin Uzhan]([https://github.com/user1](https://github.com/FethiEnginUzhan))  
 
-[Rasih Görkem Şimşek]([https://github.com/user1](https://github.com/rsimsek3))
+- [Rasih Görkem Şimşek]([https://github.com/user1](https://github.com/rsimsek3))
 
 
 
