@@ -22,13 +22,14 @@ List the key features and functionalities of the project.
 - Hardware: Raspberry pi 4
 - Raspberry Pi OS (Linux)
 - RTL SDR 
-- Features of main components:
-  motors and casters: for movement
-  MPU 6050 : The vehicle performs rotations in predefined angular increments.
-  L298N Motor driver: To enable precise control of the motors integrated into the vehicle platform
-  Powerbank and 18650 rechargeable battery : To provide power to all onboard components
-  microSD: Memory of the Raspberry pi 4
-  Yagi antenna: To capture the signal with directional sensitivity
+-  Features of main components:  
+  - Motors and casters: for movement  
+  - MPU6050: The vehicle performs rotations in predefined angular increments  
+  - L298N Motor driver: To enable precise control of the motors integrated into the vehicle platform  
+  - Powerbank and 18650 rechargeable battery: To provide power to all onboard components  
+  - microSD: Memory of the Raspberry Pi 4  
+  - Yagi antenna: To capture the signal with directional sensitivity  
+
 ![image](https://github.com/user-attachments/assets/a5aa11f4-ffcf-424c-90f8-97048de40ff3)
 
 ## Installation
