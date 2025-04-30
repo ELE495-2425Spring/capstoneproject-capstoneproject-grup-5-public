@@ -30,7 +30,7 @@ List the key features and functionalities of the project.
   - microSD: Memory of the Raspberry Pi 4  
   - Yagi antenna: To capture the signal with directional sensitivity  
 
-![image](https://github.com/user-attachments/assets/a5aa11f4-ffcf-424c-90f8-97048de40ff3)
+![image](grup-5-system.png)
 
 ## Installation
 Libraries used in the project:
@@ -79,9 +79,9 @@ The system allows an autonomous vehicle to detect and follow a 433 MHz RF signal
 
 ## Screenshots
 Some images from project:
-![arayüz](https://github.com/user-attachments/assets/989d6086-aef9-4a2d-bea1-b03546db6721)
-![araba1](https://github.com/user-attachments/assets/f44ec025-1e6f-461c-bd9f-07e3b0cae233)
-![araba2](https://github.com/user-attachments/assets/dc3d6908-de43-4bd8-946c-e4deedd65b8d)
+![arayüz](grup-5-app.jpg)
+![araba1](grup-5-car.jpg)
+![araba2](grup-5-car-2.jpg)
 
 Direction Finding Examples:
 
